@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = 'DMConcierge'
+  s.name         = 'AppWordsConcierge'
   s.version      = '0.0.1'
   s.summary      = 'Concierge from Appwords.'
   s.description  = 'Try to get access to concierge private beta from AppWords'
@@ -21,8 +21,5 @@ Pod::Spec.new do |s|
   s.frameworks  = 'UIKit', 'Foundation', 'QuartzCore'
 
   s.requires_arc = true
-#  s.dependency 'BFPaperButton'
-#  s.dependency 'AFNetworking'
-#  s.dependency 'TTTAttributedLabel'
 
 end

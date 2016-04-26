@@ -4,17 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/AppWordsConcierge.h</key>
+		<data>
+		hZ6KEYuHSLWxwYs8Kcv1IjhYqh0=
+		</data>
+		<key>Headers/AppWordsConciergeDelegate.h</key>
+		<data>
+		IfAIyURAQgCz+N+ChbaXybyNPhs=
+		</data>
 		<key>Headers/Concierge.h</key>
 		<data>
-		k8TOyYV4l0N3sKYgrz7srJxQtjQ=
-		</data>
-		<key>Headers/DMCActivateTrigger.h</key>
-		<data>
-		EsBSM2LXvSmRbQNMfknXwQbutu4=
-		</data>
-		<key>Headers/DMCTriggerDelegate.h</key>
-		<data>
-		spuHNLQDIyLFWkU67rOsYvwFd1w=
+		dUhAf8oi1bFbsalcVU4Enr6gm0U=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -27,37 +27,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/AppWordsConcierge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hZ6KEYuHSLWxwYs8Kcv1IjhYqh0=
+			</data>
+			<key>hash2</key>
+			<data>
+			fXRdo/b0bhwMx4kLyza0DWGiagI+hXFtkUTnzjHSnTU=
+			</data>
+		</dict>
+		<key>Headers/AppWordsConciergeDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IfAIyURAQgCz+N+ChbaXybyNPhs=
+			</data>
+			<key>hash2</key>
+			<data>
+			rQzGQ/oSMn30/n2GPhZXV97VLfIDndNCEyJnYgRfXic=
+			</data>
+		</dict>
 		<key>Headers/Concierge.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k8TOyYV4l0N3sKYgrz7srJxQtjQ=
+			dUhAf8oi1bFbsalcVU4Enr6gm0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZzZ0tXT5H67ro94+Rt0BOv/6RBWJSuJwlT4c1wKtv70=
-			</data>
-		</dict>
-		<key>Headers/DMCActivateTrigger.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EsBSM2LXvSmRbQNMfknXwQbutu4=
-			</data>
-			<key>hash2</key>
-			<data>
-			sc3wX8gzGpUberUfM9inrnKgXqYymC7LwCMVeOiwhQI=
-			</data>
-		</dict>
-		<key>Headers/DMCTriggerDelegate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			spuHNLQDIyLFWkU67rOsYvwFd1w=
-			</data>
-			<key>hash2</key>
-			<data>
-			5Q1F9g/ppDNii4t0XJi6gK6hXuvc27VvD+2epGETdjg=
+			5Q/4DwLXD7wODlSO5q8BnCu8nfrLPP58zEZrRPvETmA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

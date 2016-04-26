@@ -18,5 +18,5 @@ FOUNDATION_EXPORT const unsigned char ConciergeVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Concierge/PublicHeader.h>
 
-#import "DMCActivateTrigger.h"
-#import <Concierge/DMCTriggerDelegate.h>
+#import "AppWordsConcierge.h"
+#import "AppWordsConciergeDelegate.h"
