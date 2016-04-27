@@ -33,12 +33,32 @@ Add the following to your podfile:
 
 Run ‘pod install’ in the directory of your project to install AppWords Concierge.
 
+![podinstall][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*gj6Ub2-PJDtj0J7GjG0wDQ.png "Title"
+
 ### Step 3: Open the “.xcworkspace” file in your project.
 Pretty self explanatory...
+
+![workspace][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*PYfoPQzptsvJK6IvDwk8NA.png "Title"
+
 ### Step 4: Open ViewController.m (or wherever else you want to integrate)
 Also self explanatory...
+
+![viewcontroller][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*sitmgfoMOaOlVL4pH271ww.png "Title"
+
+And here’s how the app looks before integrating:
+
+![appbefore][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*aasiXXHBWodMG79dpqnp8g.png "Title"
+
 ### Step 5: Insert/edit the following lines of code
->#import <Concierge/Concierge.h>
+> #import <Concierge/Concierge.h>
 
 > @property (strong, nonatomic) AppWordsConcierge *chatTrigger;
 
@@ -48,6 +68,18 @@ Also self explanatory...
  }
 
 (Note: replace “EMAIL@EMAIL.COM” with the email address you used to sign up for a code at appwords.ai)
+
+So your file looks something like this:
+
+![newviewcontroller][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*M-XtoFrhhSwrJ6JnYlVnOw.png "Title"
+
+And the new app looks like this:
+
+![appafter][id]
+
+[id]: https://cdn-images-1.medium.com/max/800/1*F3SRuBH0tGnzjP1VXuEvBg.png "Title"
 
 ### Step 6: Run, and voila!
 Follow the on screen instructions to enter your code, and you’re on the list!
