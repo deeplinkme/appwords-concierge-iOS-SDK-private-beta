@@ -2,8 +2,8 @@
 //  Concierge.h
 //  Concierge
 //
-//  Created by Dmitriy Voynov on 4/13/16.
-//  Copyright (c) 2016 Deeplink.me. All rights reserved.
+//  Created by Itamar Weisbrod
+//  Copyright (c) 2016 Deeplink. All rights reserved.
 //
 
 
