@@ -88,3 +88,11 @@ And the app now looks like this:
 
 ### <a name="step-6"></a>Step 6: Run, and voila!
 Follow the on screen instructions to enter your code, and you’re on the list!
+
+https://vimeo.com/164325527/d5a77b24d1
+
+Congrats!
+
+<p align="center">
+<img src="/step-6.gif"/>
+</p>
