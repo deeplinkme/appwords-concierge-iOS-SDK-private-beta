@@ -1,16 +1,16 @@
 Pod::Spec.new do |s|
 
   s.name         = 'AppWordsConcierge'
-  s.version      = '0.0.1'
-  s.summary      = 'Concierge from Appwords.'
-  s.description  = 'Try to get access to concierge private beta from AppWords'
+  s.version      = '0.0.2'
+  s.summary      = 'AppWords Concierge Private Beta SDK'
+  s.description  = 'This is the placeholder SDK to sign up for the AppWords Concierge Private Beta!'
 
-  s.homepage     = 'http://Deeplink.me/appwords'
+  s.homepage     = 'http://www.deeplink.me/appwords'
 
   s.license      = 'MIT'
 
-  s.author             = {'AppWords.Deeplink.me' => 'hey@appwords.com'}
-  s.social_media_url   = 'http://facebook.com/deeplinkme'
+  s.author             = {'AppWords.Deeplink.me' => 'hey@deeplink.me'}
+  s.social_media_url   = 'http://twitter.com/deeplinkme'
 
   s.platform     = :ios, '8.0'
   s.source       = { :git => 'https://github.com/deeplinkme/appwords-concierge-iOS-SDK-private-beta.git', :commit => '22be8dc8198e9da899d1779524d8b08f222883fa' }
