@@ -1,3 +1,9 @@
+<p align="center">
+<img src="/concierge-logo.png" width="309"/>
+</p>
+
+<br>
+
 # How to get into the AppWords Concierge Private Beta #
 
 By now I’m sure you’ve seen our new AppWords Concierge. That would be a good reason for why you are reading this now.
@@ -12,32 +18,32 @@ Yup, it is very cool. And you are cool. And that’s why we want you in. But how
 0.0.1
 
 ## Integration Instructions
-* Step 1: Edit your project’s Podfile
-* Step 2: ‘pod install’
-* Step 3: Open the “.xcworkspace” file in your project.
-* Step 4: Open ViewController.m (or wherever else you want to integrate)
-* Step 5: Insert/edit the following lines of code
-* Step 6: Run, and voila!
+* [Step 1: Edit your project’s Podfile](#step-1)
+* [Step 2: ‘pod install’](#step-2)
+* [Step 3: Open the “.xcworkspace” file in your project.](#step-3)
+* [Step 4: Open ViewController.m (or wherever else you want to integrate)](#step-4)
+* [Step 5: Insert/edit the following lines of code](#step-5)
+* [Step 6: Run, and voila!](#step-6)
 
-### Step 1: Edit your project’s Podfile
+### <a name="step-1"></a>Step 1: Edit your project’s Podfile
 
 Add the following to your podfile:
 
 >pod ‘AppWordsConcierge’, :git => ‘https://github.com/deeplinkme/appwords-concierge-iOS-SDK-private-beta.git'
 
-### Step 2: 'pod install'
+### <a name="step-2"></a>Step 2: 'pod install'
 
 Run ‘pod install’ in the directory of your project to install AppWords Concierge.
 
-### Step 3: Open the “.xcworkspace” file in your project.
+### <a name="step-3"></a>Step 3: Open the “.xcworkspace” file in your project.
 Pretty self explanatory...
 
 
-### Step 4: Open ViewController.m (or wherever else you want to integrate)
+### <a name="step-4"></a>Step 4: Open ViewController.m (or wherever else you want to integrate)
 Also self explanatory...
 
 
-### Step 5: Insert/edit the following lines of code
+### <a name="step-5"></a>Step 5: Insert/edit the following lines of code
 
     #import <Concierge/Concierge.h>
     @property (strong, nonatomic) AppWordsConcierge *chatTrigger;
@@ -47,5 +53,5 @@ Also self explanatory...
 (Note: replace “EMAIL@EMAIL.COM” with the email address you used to sign up for a code at appwords.ai)
 
 
-### Step 6: Run, and voila!
+### <a name="step-6"></a>Step 6: Run, and voila!
 Follow the on screen instructions to enter your code, and you’re on the list!
