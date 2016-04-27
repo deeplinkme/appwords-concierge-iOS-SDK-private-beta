@@ -55,6 +55,7 @@ Also self explanatory...
 <p align="center">
 <img src="/step-4-1.png"/>
 </p>
+<br>
 
 And here’s how the app looks before integrating:
 
@@ -77,7 +78,7 @@ So that your file looks something like this:
 <p align="center">
 <img src="/step-5-1.png"/>
 </p>
-
+<br>
 And the app now looks like this:
 
 <p align="center">
