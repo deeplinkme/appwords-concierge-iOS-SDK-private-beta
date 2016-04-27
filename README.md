@@ -39,12 +39,11 @@ Also self explanatory...
 
 ### Step 5: Insert/edit the following lines of code
 
-```#import <Concierge/Concierge.h>
-```
-```@property (strong, nonatomic) AppWordsConcierge *chatTrigger;
-```
-``` — (void)viewDidLoad { [super viewDidLoad]; self.chatTrigger = [AppWordsConcierge createChatTriggerInViewController:self userEmail:@“EMAIL@EMAIL.COM”]; }
-```
+    #import <Concierge/Concierge.h>
+    @property (strong, nonatomic) AppWordsConcierge *chatTrigger;
+
+    — (void)viewDidLoad { [super viewDidLoad]; self.chatTrigger = [AppWordsConcierge createChatTriggerInViewController:self userEmail:@“EMAIL@EMAIL.COM”]; }
+
 (Note: replace “EMAIL@EMAIL.COM” with the email address you used to sign up for a code at appwords.ai)
 
 
